@@ -1,5 +1,5 @@
 {
-  "name": "backup-manager/laravel",
+  "name": "backup-manager/laravelnew",
   "description": "Database backup manager seamlessly integrated with Laravel 5, 6 or 8 with user-definable procedures and support for S3, Dropbox, FTP, SFTP, and more.",
   "authors": [
     {
