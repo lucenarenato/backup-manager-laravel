@@ -1,20 +1,20 @@
 {
   "name": "backup-manager/laravel",
-  "description": "Database backup manager seamlessly integrated with Laravel 4 or 5 with user-definable procedures and support for S3, Dropbox, FTP, SFTP, and more.",
+  "description": "Database backup manager seamlessly integrated with Laravel 5, 6 or 8 with user-definable procedures and support for S3, Dropbox, FTP, SFTP, and more.",
   "authors": [
     {
-      "name": "Shawn McCool",
-      "email": "shawn@heybigname.com",
-      "homepage": "https://shawnmc.cool"
+      "name": "Shawn McCool || Renato Lucena",
+      "email": "cpdrenato@gmail.com",
+      "homepage": "https://renatolucena.net"
     }
   ],
   "require": {
     "backup-manager/backup-manager": "^3.0",
-    "php": "^7.3||^7.4",
+    "php": "^7.3||^7.4||^8.0",
     "symfony/process": "^3||^4||^5",
-    "illuminate/support": "^5.5||^6||^7",
-    "illuminate/container": "^5.5||^6||^7",
-    "illuminate/console": "^5.5||^6||^7"
+    "illuminate/support": "^5.5||^6||^7||^8||^9",
+    "illuminate/container": "^5.5||^6||^7||^8||^9",
+    "illuminate/console": "^5.5||^6||^7||^8||^9"
   },
   "require-dev": {
     "mockery/mockery": "dev-master",
