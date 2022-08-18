@@ -21,7 +21,7 @@ This package pulls in the framework agnostic [Backup Manager](https://github.com
 
 It's stable enough, you'll need to understand filesystem permissions.
 
-This package is being actively developed, and we would like to get feedback to improve it. [Please feel free to submit feedback.](https://github.com/backup-manager/laravel/issues/new)
+This package is being actively developed, and we would like to get feedback to improve it. [Please feel free to submit feedback.](https://github.com/backup-gerente/laravel/issues/new)
 
 ### Requirements
 
@@ -38,7 +38,7 @@ This package is being actively developed, and we would like to get feedback to i
 Run the following to include this via Composer
 
 ```shell
-composer require backup-manager/laravel
+composer require backup-gerente/laravel
 ```
 
 Then, you'll need to select the appropriate packages for the adapters that you want to use.
@@ -165,7 +165,7 @@ This package is maintained by [Shawn McCool](http://shawnmc.cool) and [open-sour
 
 ### License
 
-This package is licensed under the [MIT license](https://github.com/backup-manager/laravel/blob/master/LICENSE).
+This package is licensed under the [MIT license](https://github.com/backup-gerente/laravel/blob/master/LICENSE).
 
 ### Changelog
 
